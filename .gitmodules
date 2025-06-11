@@ -1,0 +1,9 @@
+[submodule "face_detection"]
+	path = face_detection
+	url = https://github.com/blueardour/face_detection
+[submodule "mllm_grounding"]
+	path = mllm_grounding
+	url = https://github.com/blueardour/mllm_grounding
+[submodule "face_recognition"]
+	path = face_recognition
+	url = https://github.com/blueardour/face_recognition
