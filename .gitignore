@@ -1,7 +1,11 @@
 
 .vscode
+.python-version
 
 *.swp
 *.swn
 *.swo
+*.pyc
+*.so
+*.a
 
